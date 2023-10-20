@@ -1,0 +1,101 @@
+body {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.banner {
+    height: 865px;
+    width: 100%;
+    background: url('./sett.jpg') center center no-repeat;
+
+    .about-sign-in {
+        height: 80px;
+        width: 100%;
+        text-align: right;
+
+        .sign-in {
+            margin-right: 60px;
+            margin-left: 25px;
+            border-radius: 20px;
+            border: 1px solid green;
+        }
+
+        .sign-in,
+        .about {
+            margin-top: 20px;
+            text-decoration: none;
+            display: inline-block;
+            padding: 10px 15px;
+            text-transform: uppercase;
+        }
+    }
+
+    .text {
+        text-align: center;
+        margin-top: 30px;
+
+        span {
+            color: green;
+            font-size: 50px;
+        }
+    }
+
+    .logo {
+        height: 100px;
+        margin-top: 40px;
+        background: url('./SPKT.jpg') center center no-repeat;
+    }
+
+    .content-center {
+
+        .left,
+        .right,
+        .center {
+            width: 33%;
+            display: inline-block;
+            text-align: center;
+            margin-top: 20px;
+            margin-bottom: 20px;
+
+            img {
+                width: 30px;
+                height: 30px;
+            }
+
+            margin-top: 20px;
+            height: 80px;
+            font-size: 20px;
+
+            span {
+                font-size: 20px;
+                padding: 15px;
+                display: block;
+            }
+        }
+    }
+
+    .btn-start-now {
+        text-align: center;
+
+        button {
+            text-transform: uppercase;
+            padding: 10px 15px;
+            border-radius: 20px;
+            border: 1px solid green;
+            margin-top: 25px;
+            -webkit-border-radius: 20px;
+            -moz-border-radius: 20px;
+            -ms-border-radius: 20px;
+            -o-border-radius: 20px;
+            cursor: pointer;
+        }
+    }
+}
+
+.red {
+    border: 1px solid red;
+}
+
+.green {
+    border: 1px solid green;
+}

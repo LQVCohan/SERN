@@ -1,0 +1,107 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Cohan\/OneDrive\/Desktop\/HTML\/custom\.scss}line{font-family:\000031}}
+body {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Cohan\/OneDrive\/Desktop\/HTML\/custom\.scss}line{font-family:\000036}}
+.banner {
+  height: 865px;
+  width: 100%;
+  background: url("./sett.jpg") center center no-repeat;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Cohan\/OneDrive\/Desktop\/HTML\/custom\.scss}line{font-family:\0000311}}
+.banner .about-sign-in {
+  height: 80px;
+  width: 100%;
+  text-align: right;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Cohan\/OneDrive\/Desktop\/HTML\/custom\.scss}line{font-family:\0000316}}
+.banner .about-sign-in .sign-in {
+  margin-right: 60px;
+  margin-left: 25px;
+  border-radius: 20px;
+  border: 1px solid green;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Cohan\/OneDrive\/Desktop\/HTML\/custom\.scss}line{font-family:\0000323}}
+.banner .about-sign-in .sign-in,
+.banner .about-sign-in .about {
+  margin-top: 20px;
+  text-decoration: none;
+  display: inline-block;
+  padding: 10px 15px;
+  text-transform: uppercase;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Cohan\/OneDrive\/Desktop\/HTML\/custom\.scss}line{font-family:\0000333}}
+.banner .text {
+  text-align: center;
+  margin-top: 30px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Cohan\/OneDrive\/Desktop\/HTML\/custom\.scss}line{font-family:\0000337}}
+.banner .text span {
+  color: green;
+  font-size: 50px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Cohan\/OneDrive\/Desktop\/HTML\/custom\.scss}line{font-family:\0000343}}
+.banner .logo {
+  height: 100px;
+  margin-top: 40px;
+  background: url("./SPKT.jpg") center center no-repeat;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Cohan\/OneDrive\/Desktop\/HTML\/custom\.scss}line{font-family:\0000351}}
+.banner .content-center .left,
+.banner .content-center .right,
+.banner .content-center .center {
+  width: 33%;
+  display: inline-block;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  height: 80px;
+  font-size: 20px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Cohan\/OneDrive\/Desktop\/HTML\/custom\.scss}line{font-family:\0000360}}
+.banner .content-center .left img,
+.banner .content-center .right img,
+.banner .content-center .center img {
+  width: 30px;
+  height: 30px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Cohan\/OneDrive\/Desktop\/HTML\/custom\.scss}line{font-family:\0000369}}
+.banner .content-center .left span,
+.banner .content-center .right span,
+.banner .content-center .center span {
+  font-size: 20px;
+  padding: 15px;
+  display: block;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Cohan\/OneDrive\/Desktop\/HTML\/custom\.scss}line{font-family:\0000377}}
+.banner .btn-start-now {
+  text-align: center;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Cohan\/OneDrive\/Desktop\/HTML\/custom\.scss}line{font-family:\0000380}}
+.banner .btn-start-now button {
+  text-transform: uppercase;
+  padding: 10px 15px;
+  border-radius: 20px;
+  border: 1px solid green;
+  margin-top: 25px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+  cursor: pointer;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Cohan\/OneDrive\/Desktop\/HTML\/custom\.scss}line{font-family:\0000395}}
+.red {
+  border: 1px solid red;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Cohan\/OneDrive\/Desktop\/HTML\/custom\.scss}line{font-family:\0000399}}
+.green {
+  border: 1px solid green;
+}
+
+/*# sourceMappingURL=custom.css.map */
